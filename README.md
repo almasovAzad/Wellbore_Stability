@@ -1,5 +1,5 @@
 # Wellbore Stability Analysis
-## Overview of subject matter:
+### Overview of subject matter:
 Analysis of stress concentration around wellbore for different wellbore inclination and accounting for the effect of time for a new well drilled after production from an old well which affect far field stresses due to influence of stress path.
 ### Method of analysis:
 The pressure transient analytical solution using interference well is used to evaluate pore pressure at different times, using horizontal poison’s ratio values. The resulting pore pressure values are used to calculate new far-field stresses using concept of stress path. The new far-field stresses are applied to a new wellbore for different wellbore inclinations after performing coordinate transformation and applying Kirsch Solutions for plane strain assumptions in cylindrical coordinate system. The principal stresses at the bore-hole wall are evaluated and is assessed based on Griffith criteria for tensile fracture and Mohr-Coulomb criteria for shear failure. The study inspects the effect of time and wellbore inclination on stress concentration for cases of reservoir depletion. Also, further investigation has been done for cases of tripping in drill string. The reservoir formation is assumed to have majorly unconsolidated sand.
